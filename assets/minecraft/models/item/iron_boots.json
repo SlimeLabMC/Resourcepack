@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/iron_boots"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/damascus_steel_boots"},{"predicate":{"custom_model_data":4001},"model":"slimefun:item/reinforced_alloy_boots"}]}

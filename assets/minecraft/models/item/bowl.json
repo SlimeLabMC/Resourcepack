@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/bowl"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/gold_pan"},{"predicate":{"custom_model_data":4001},"model":"slimefun:item/nether_gold_pan"},{"predicate":{"custom_model_data":4002},"model":"slimefun:item/multiblocks/automated_panning_machine"}]}

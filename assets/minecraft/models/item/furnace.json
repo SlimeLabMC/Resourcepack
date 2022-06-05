@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/furnace","overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/multiblocks/smeltery"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/glowstone_dust"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/sulfate"},{"predicate":{"custom_model_data":4001},"model":"slimefun:item/gold_dust"},{"predicate":{"custom_model_data":4002},"model":"slimefun:item/copper_dust"}]}

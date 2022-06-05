@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/piston_inventory","overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/multiblocks/compressor"}]}

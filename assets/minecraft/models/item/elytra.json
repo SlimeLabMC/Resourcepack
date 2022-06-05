@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/elytra"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/infused_elytra"},{"predicate":{"custom_model_data":4001},"model":"slimefun:item/soulbound_elytra"}]}

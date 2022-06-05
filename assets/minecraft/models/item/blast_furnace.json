@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/blast_furnace","overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/multiblocks/makeshift_smeltery"}]}

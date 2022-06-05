@@ -1,0 +1,22 @@
+name: Create release
+
+on: 
+  release:
+    types:
+      - created
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v2 # Checkout the repository content to github runner.
+    - uses: montudor/action-zip@v1
+    - name: Zip Folder
+      run: zip -qq -r -9 "SlimeLab Resourcepack.zip" *
+    - name: Release
+      uses: softprops/action-gh-release@v0.1.14
+      with:
+        files: SlimeLab Resourcepack.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

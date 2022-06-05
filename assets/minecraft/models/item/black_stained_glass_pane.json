@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/black_stained_glass"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/gui/previous_inactive"},{"predicate":{"custom_model_data":4001},"model":"slimefun:item/gui/next_inactive"}]}

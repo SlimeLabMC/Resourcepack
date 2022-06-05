@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/purple_dye"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/strange_nether_goo"}]}

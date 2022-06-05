@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"item/golden_pickaxe"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/industrial_miner"}]}

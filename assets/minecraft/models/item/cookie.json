@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cookie"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/diet_cookie"},{"predicate":{"custom_model_data":4001},"model":"slimefun:item/fortune_cookie"},{"predicate":{"custom_model_data":4002},"model":"slimefun:item/kelp_cookie"}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"item/iron_pickaxe"},"overrides":[{"predicate":{"custom_model_data":4000},"model":"slimefun:item/hercules_pickaxe"},{"predicate":{"custom_model_data":4001},"model":"slimefun:item/pickaxe_of_containment"},{"predicate":{"custom_model_data":4002},"model":"slimefun:item/climbing_pick"}]}

@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:block/stonecutter",
+	"textures": {
+		"layer0": "minecraft:block/stonecutter"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 4000
+			},
+			"model": "slimefun:item/multiblocks/table_saw"
+		}
+	]
+}
