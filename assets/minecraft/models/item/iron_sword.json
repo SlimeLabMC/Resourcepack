@@ -9,6 +9,14 @@
 				"custom_model_data": 4000
 			},
 			"model": "slimefun:item/sword_of_beheading"
+			
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10000
+			},
+			"model": "rpgitems:item/spring_weapon"
+			
 		}
 	]
 }
